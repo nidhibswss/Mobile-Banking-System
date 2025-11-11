@@ -1,42 +1,22 @@
-# Mobile-Banking-System
+# T-Bank: Online & Mobile Banking System
 
-This banking system named T-bank is a secure and convenient mobile banking app designed to help you manage your finances. With features like account management, bill payment, and robust security measures, T-bank ensures your financial information is always safe and accessible.
+T-Bank is a full-stack banking application that allows customers to securely manage their finances online.  
+The system supports account management, fund transfers, bill payments, card security features, and teller-side administrative controls.
 
-Features
+### Features
+- Customer & Teller login with secure authentication
+- Create and manage chequing, savings, and credit accounts
+- Interac e-Transfers, wire transfers, and account-to-account transfers
+- Bill payments, auto-pay scheduling, and loan applications
+- Card security: lock/unlock card, set transaction limits
+- View transaction history, statements, and profile management
 
- 1. Account Management
+### Tech Stack
+- **Backend:** Python (Flask)
+- **Frontend:** HTML, CSS, JavaScript
+- **Database / Storage:** Python data models & structured storage
 
-- View account balances and transaction history for your checking, savings, and credit card accounts.
-- Transfer funds between your accounts or to other linked accounts.
-- Set up recurring transfers, bill payments, and manage payees.
-
-2. Bill Payment
-
-- Pay bills and schedule recurring payments.
-- Add and manage payees for quick and easy transactions.
-- Receive notifications for upcoming and completed payments.
-
-
- 3. Security
-
-- Industry-standard encryption to protect your data.
-- Password authentication for secure login.
-- Customize security settings and notification preferences.
-
-Installation
-
-1. Before downloading the file, make sure you have python and flask installed on your device.
-2. Download all the files and run them.
-3. Create and account and start banking
-
-Usage
-
-1. Dashboard: The home screen provides an overview of your account balances and recent transactions.
-
-2. Account Management: Navigate to the Account section to view account details, make transfers, and manage recurring transactions.
-
-3. Bill Payment: In the Bill Payment section, you can add payees, schedule payments, and manage recurring bills.
-
-4. Settings: Customize the app's security settings, notification preferences, and more from the Settings menu.
+### Project Scope
+This project was a group project, developed for a Software Engineering course and follows a structured development cycle with UML modeling, multiple prototypes, testing, and documentation.
 
 
