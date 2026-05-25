@@ -3,15 +3,15 @@
 A full-stack banking system simulating real-world financial operations for customers and bank tellers. Built using Python (Flask) with HTML/CSS/JavaScript, focusing on secure transactions, modular design, and system-level engineering principles.
 
 It provides a wide range of banking services such as:
-- Account creation and management
-- Money transfers and e-transfers
-- Loan and credit account applications
-- Bill payments and scheduled payments
-- Transaction tracking and statements
-- Administrative control for bank tellers
-- The system focuses on usability, security, scalability, and maintainability, closely reflecting real-world banking systems.
+  - Account creation and management
+  - Money transfers and e-transfers
+  - Loan and credit account applications
+  - Bill payments and scheduled payments
+  - Transaction tracking and statements
+  - Administrative control for bank tellers
+  - The system focuses on usability, security, scalability, and maintainability, closely reflecting real-world banking systems.
 
-
+--- 
 ### Features
 ### Bank Customers: 
   * Register and log in
@@ -28,7 +28,8 @@ It provides a wide range of banking services such as:
   * View and manage customer accounts
   * Access customer financial data
   * Manage account restrictions and operations
-
+    
+---
 
 ### Tech Stack
 - **Backend:** Python (Flask)
@@ -36,7 +37,7 @@ It provides a wide range of banking services such as:
 - **Modeling Tools:** UML (Lucidchart, hand-drawn diagrams)
 - **Methodology:** Spiral Software Development Model
 
-
+---
 
 ### System Architecture
 
