@@ -1,64 +1,67 @@
-# T-Bank: Mobile Banking System
+# 🏦 T-Bank: Mobile Banking System
 
-A full-stack banking system simulating real-world financial operations for customers and bank tellers. Built using Python (Flask) with HTML/CSS/JavaScript, focusing on secure transactions, modular design, and system-level engineering principles.
-
-It provides a wide range of banking services such as:
-  - Account creation and management
-  - Money transfers and e-transfers
-  - Loan and credit account applications
-  - Bill payments and scheduled payments
-  - Transaction tracking and statements
-  - Administrative control for bank tellers
-  - The system focuses on usability, security, scalability, and maintainability, closely reflecting real-world banking systems.
-
---- 
-### Features
-### Bank Customers: 
-  * Register and log in
-  * Open/close accounts
-  * Transfer funds (internal & external)
-  * Send e-Transfers
-  * Pay bills and set autopayments
-  * Apply for loans and credit accounts
-  * View statements and transaction history
-  * Manage profile and security settings
-
-#### Bank Tellers (Admins) : 
-  * Register new customers
-  * View and manage customer accounts
-  * Access customer financial data
-  * Manage account restrictions and operations
-    
----
-
-### Tech Stack
-- **Backend:** Python (Flask)
-- **Frontend:** HTML, CSS, JavaScript
-- **Modeling Tools:** UML (Lucidchart, hand-drawn diagrams)
-- **Methodology:** Spiral Software Development Model
+A full-stack mobile banking system designed to simulate real-world financial operations for both customers and bank tellers. Built with a focus on secure transactions, modular architecture, and system-level engineering principles.
 
 ---
 
-### System Architecture
+## 🚀 Overview
 
-The system is structured into modular components:
-* User Interface (UI): Web-based frontend built using HTML/CSS/JS
-* Backend Services: Flask-based application logic
-* Authentication & Security: Login systems, validation, and access control
-* Account Management: Customer accounts, transactions, loans
-* Support Services: Admin operations and customer support tools
-----
+**T-Bank** bridges the gap between customer-facing digital banking and internal administrative controls. Developed as part of academic coursework for **CPS406 (Introduction to Software Engineering)**, this project emphasizes robust system modeling, secure backend development, and scalable application design.
 
-### Development Process
+---
 
-The system was developed in multiple iterations:
+## ✨ Key Features
 
-Prototype 1: Core class design and structure
-Prototype 2: Flask integration and backend logic
-Prototype 3: Full system with UI, testing, and refinements
+### 👤 Bank Customers
+* **Onboarding & Security:** Secure registration, multi-role login, profile management, and security customization.
+* **Account Control:** Easily open or close chequing, savings, or credit accounts.
+* **Financial Operations:** * Internal and external fund transfers.
+    * Instant digital e-Transfers.
+    * One-time bill payments and automated autopay schedules.
+* **Credit & Financing:** Seamless applications for loans and credit lines.
+* **Insights:** Real-time transaction tracking and downloadable financial statements.
 
-📌 Note
+### 💼 Bank Tellers (Administrators)
+* **Customer Onboarding:** Direct registration and profile creation for new clients.
+* **Account Oversight:** Full access to view, manage, and audit customer financial data.
+* **Risk Management:** Authority to apply, modify, or lift account restrictions and freeze flags.
 
-This project was developed as part of an academic coursework (CPS406 – Introduction to Software Engineering, focusing on system modeling, backend development, and secure application design.
+---
 
+## 🛠️ Tech Stack & Methodology
 
+| Component | Technology / Approach |
+| :--- | :--- |
+| **Backend** | Python (Flask) |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Modeling & Design** | UML (Lucidchart & Structured System Diagrams) |
+| **Development Life Cycle** | Spiral Software Development Model |
+
+---
+
+## 🏗️ System Architecture
+
+The application is engineered around modular, decoupled components to ensure high maintainability and ease of scaling:
+
+* **User Interface (UI):** A responsive, web-based frontend capturing modern banking layouts.
+* **Backend Services:** Flask application logic driving transactional integrity and business rules.
+* **Authentication & Security:** Robust validation layers, access control lists (ACLs), and session-state protection.
+* **Account Ledger:** Core engine managing balances, historical transaction tracking, and loan amortizations.
+* **Support & Administrative Tools:** Behind-the-scenes control panel for teller-specific overrides.
+
+---
+
+## 🔄 Development Process
+
+Adhering to the **Spiral Development Model**, the system matured across multiple risk-managed iterations:
+
+1.  **Prototype 1 (Core Foundations):** Object-oriented design, class mapping, and structural layout.
+2.  **Prototype 2 (Backend Integration):** Flask routing setup, state management, and transaction logic.
+3.  **Prototype 3 (Full System):** Frontend integration, end-to-end user-acceptance testing, and security refinements.
+
+---
+
+## 📌 Academic Context
+
+> **Course:** CPS406 – Introduction to Software Engineering - group project
+> **Focus Areas:** Object-Oriented Analysis & Design (OOAD), system modeling, secure backend engineering, and iterative prototyping.
