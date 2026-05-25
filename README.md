@@ -6,7 +6,7 @@ A full-stack mobile banking system designed to simulate real-world financial ope
 
 ## 🚀 Overview
 
-**T-Bank** bridges the gap between customer-facing digital banking and internal administrative controls. Developed as part of academic coursework for **CPS406 (Introduction to Software Engineering)**, this project emphasizes robust system modeling, secure backend development, and scalable application design.
+**T-Bank** bridges the gap between customer-facing digital banking and internal administrative controls. Developed as part of academic coursework for **CPS406 (Introduction to Software Engineering)**, this project emphasizes system design and modeling and secure backend development
 
 ---
 
